@@ -1,5 +1,5 @@
-import Book from "./book";
-import Membre from "./member";
+import Book from "../Membres/book";
+import Membre from "../Membres/member";
 
 class Library {
     private books:Book[];

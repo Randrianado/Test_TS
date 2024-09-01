@@ -1,6 +1,6 @@
-import Book from "./book";
-import Membre from "./member";
-import Library from "./library";
+import Book from "./Membres/book";
+import Membre from "./Membres/member";
+import Library from "./Bibliotheque/library";
 
 const library=new Library();
 
